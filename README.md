@@ -4,7 +4,7 @@
 
 # 🎓 About Me
 
-- BS Business Analytics Student at FAST University, Karachi  
+- BS Business Analytics Student at FAST University
 - Undergraduate student specializing in data and business analysis with a focus on structured problem-solving and decision-making.
 
 ---
