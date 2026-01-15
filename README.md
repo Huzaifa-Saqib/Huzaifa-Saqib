@@ -19,7 +19,6 @@
 
 ## 💻 Skills
 
-**Tools & Technologies:**  
 - 🗄️ SQL   
 - 📊 Microsoft Excel  
 - 📈 Power BI & Tableau
