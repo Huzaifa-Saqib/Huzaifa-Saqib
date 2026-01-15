@@ -20,11 +20,11 @@
 ## 💻 Skills
 
 **Tools & Technologies:**  
-- 📈 Microsoft Excel  
-- 📊 Power BI & Tableau  
-- 🗄 SQL – beginner  
-- 🐍 Python – beginner  
-- 📊 Data Analysis & Visualization  
+- 🗂️ SQL   
+- 📃 Microsoft Excel  
+- 📊 Power BI & Tableau
+- 🐍 Python  
+- 📈 Data Analysis & Visualization  
 - 🧩 Business Analysis  
 - 🧠 Critical Thinking & Problem Solving
 
