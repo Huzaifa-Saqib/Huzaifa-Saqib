@@ -19,7 +19,6 @@ I’m passionate about using data, economics, and strategic thinking to solve re
 # 🎯 Current Interests  
 
 - Business Analytics  
-- Economics & Productivity Research  
 - Strategy & Consulting  
 - Data Visualization  
 - Market & Competitor Analysis  
@@ -49,18 +48,17 @@ I’m passionate about using data, economics, and strategic thinking to solve re
 
 # 📂 Projects  
 
-- 📌 Strategic Market Entry Analysis
+- 📌 Strategic Market Entry Plan
 - 📌 Trade Openness & Productivity Analysis  
 - 📌 Sales Funnel Analytics  
-- 📌 Market Segmentation Analysis  
+- 📌 Market Segmentation Analysis
 - 📌 Financial Analysis and Benchmarking     
 
 ---
 
 # 📚 Currently Learning  
 
-- Advanced SQL & Data Modeling  
-- Python for Analytics  
+- Advanced SQL & Python 
 - Consulting-style Case Analysis  
 - Business Strategy & Economics  
 - Economic Research & Data Interpretation  
@@ -70,7 +68,4 @@ I’m passionate about using data, economics, and strategic thinking to solve re
 # 🤝 Connect With Me  
 
 - 💼 Open to collaborations, internships, and analytics-focused opportunities
-- 🌱 Always exploring ways to combine data, economics, and strategy to solve meaningful problems  
-- 🌱 Always exploring ways to combine data, economics, and strategy to solve meaningful problems  
-
-> “Good decisions come from combining data, critical thinking, and clear understanding.”
+- 🌱 Always exploring ways to combine data, economics, and strategy to solve meaningful problems
