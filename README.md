@@ -1,4 +1,4 @@
-# 👋 Assalamu Alaikum, I'm Huzaifa Saqib  
+# 👋 Hi, I'm Huzaifa Saqib  
 
 🎓 BS Business Analytics Student at FAST University  
 
