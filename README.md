@@ -10,7 +10,7 @@ I am a student with a strong interest in business strategy, economics, and data-
 
 - 📊 Aspiring Business & Data Analyst with a strong interest in strategy and economics
 - 🧠 Passionate about structured problem-solving, research, and analytical thinking  
-- 📈 Interested in consulting, business intelligence, market analysis, and economic research  
+- 📈 Interested in consulting, business analysis, and economic research  
 - 💡 Building hands-on projects in analytics, strategy, and business research  
 - 🌍 Continuously developing technical, analytical, and communication skills  
 
@@ -20,8 +20,7 @@ I am a student with a strong interest in business strategy, economics, and data-
 
 - Business Analytics  
 - Strategy & Consulting  
-- Data Visualization  
-- Market & Competitor Analysis  
+- Economic & Market Analysis
 - Business Intelligence  
 
 ---
@@ -36,13 +35,6 @@ I am a student with a strong interest in business strategy, economics, and data-
 ## 🗄️ Data & Programming  
 - SQL  
 - Python  
-
-## 📈 Business & Strategy  
-- Business Analysis  
-- Data Visualization  
-- Reporting & Dashboarding  
-- Market Research  
-- Problem Solving & Critical Thinking  
 
 ---
 
