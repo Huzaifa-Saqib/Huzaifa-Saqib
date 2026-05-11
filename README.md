@@ -2,13 +2,13 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I’m passionate about using data and strategic thinking to solve real-world business problems and support better decision-making. My interests lie at the intersection of business analytics, consulting, and strategy.  
+I am a student with a strong interest in business strategy, economics, and data-driven decision making. I am passionate about using data and strategic thinking to solve real-world business problems and support better decision-making. 
 
 ---
 
 # 🚀 About Me  
 
-- 📊 Aspiring Business & Data Analyst with a strong interest in strategy and consulting  
+- 📊 Aspiring Business & Data Analyst with a strong interest in strategy and economics
 - 🧠 Passionate about structured problem-solving, research, and analytical thinking  
 - 📈 Interested in consulting, business intelligence, market analysis, and economic research  
 - 💡 Building hands-on projects in analytics, strategy, and business research  
