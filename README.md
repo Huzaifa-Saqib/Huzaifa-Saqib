@@ -2,7 +2,7 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I am a student with a strong interest in business strategy, economics, and data-driven decision making. I am passionate about using data and strategic thinking to solve real-world business problems and support better decision-making. 
+I focus on business strategy, economics, and data-driven decision making, and I am passionate about using data and structured thinking to solve real-world business problems and support better decisions.
 
 ---
 
