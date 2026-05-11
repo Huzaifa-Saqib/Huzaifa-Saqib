@@ -2,7 +2,7 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I’m passionate about using data, economics, and strategic thinking to solve real-world business problems and support better decision-making. My interests lie at the intersection of business analytics, consulting, and strategy.  
+I’m passionate about using data and strategic thinking to solve real-world business problems and support better decision-making. My interests lie at the intersection of business analytics, consulting, and strategy.  
 
 ---
 
