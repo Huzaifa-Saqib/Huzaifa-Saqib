@@ -8,7 +8,7 @@ I focus on business strategy, economics, and data-driven decision making, and I 
 
 # 🚀 About Me  
 
-- 📊 Aspiring Business & Data Analyst with a strong interest in strategy and economics
+- 📊 Aspiring Business Analyst with a strong interest in strategy and economics
 - 🧠 Passionate about structured problem-solving, research, and analytical thinking  
 - 📈 Interested in consulting, business analysis, and economic research  
 - 💡 Building hands-on projects in analytics, strategy, and business research  
