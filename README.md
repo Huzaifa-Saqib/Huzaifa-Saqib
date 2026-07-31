@@ -40,7 +40,6 @@ I focus on business strategy, economics, and data-driven decision making, and I 
 
 # 📂 Projects  
 
-- 📌 Strategic Market Entry Plan
 - 📌 Trade Openness & Productivity Analysis  
 - 📌 Sales Funnel Analytics  
 - 📌 Market Segmentation Analysis
@@ -50,10 +49,9 @@ I focus on business strategy, economics, and data-driven decision making, and I 
 
 # 📚 Currently Learning  
 
-- Advanced SQL & Python 
+- Advanced Excel, SQL & Python 
 - Consulting-style Case Analysis  
 - Business Strategy & Economics  
-- Economic Research & Data Interpretation  
 
 ---
 
