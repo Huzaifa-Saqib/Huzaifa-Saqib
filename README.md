@@ -67,4 +67,4 @@ I focus on data science, machine learning, and economics. I am learning statisti
 # 🤝 Connect With Me  
 
 - 💼 Open to collaborations, internships, and opportunities in data science, analytics, and research  
-- 🌱 Always exploring ways to combine machine learning, causal inference, and economic thinking to investigate real-world problems, generate evidence-based insights, and understand not just what happens, but why.
+- 🌱 Always exploring ways to combine machine learning, causal inference, and economic thinking to investigate real-world problems and generate evidence-based insights.
