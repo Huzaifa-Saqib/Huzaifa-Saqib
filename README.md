@@ -2,7 +2,7 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I focus on data science, machine learning, and economics. I am learning to use statistical methods, predictive modeling, and empirical research to discover patterns, investigate relationships, and understand complex real-world problems.
+I focus on data science, machine learning, and economics. I am learning statistical methods, predictive modeling, and empirical research to discover patterns, investigate relationships, and understand complex real-world problems.
 
 ---
 
