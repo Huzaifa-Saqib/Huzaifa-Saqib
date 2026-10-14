@@ -8,19 +8,10 @@ I focus on data science, machine learning, and economics. I am learning statisti
 
 # 🚀 About Me  
 
-- 📊 Aspiring Data Scientist with a strong interest in machine learning and statistical modeling
+- 🎯 Aspiring Data Scientist with a strong interest in machine learning and statistical modeling
 - 🤖 Interested in predictive analytics, forecasting, and data-driven decision systems  
 - 🔬 Interested in economics, causal inference, and quantitative research
 - 💡 Building hands-on projects in machine learning, statistical analysis, and applied economic research  
-
----
-
-# 🎯 Current Interests  
-
-- Data Science & Machine Learning  
-- Economics & Causal Inference 
-- Statistical Modeling & Predictive Analytics  
-- Quantitative Research & Empirical Methods
 
 ---
 
@@ -42,7 +33,8 @@ I focus on data science, machine learning, and economics. I am learning statisti
 - Regression
 - Classification
 - Clustering & Segmentation
-- Ensemble Learning  
+- Ensemble Learning
+- Causal Inference & Econometrics
 
 ---
 
@@ -61,7 +53,7 @@ I focus on data science, machine learning, and economics. I am learning statisti
 - Advanced Excel, SQL & Python  
 - Statistical Modeling & Econometrics  
 - Causal Inference & Applied Research Methods
-- 
+  
 ---
 
 # 🤝 Connect With Me  
