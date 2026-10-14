@@ -2,60 +2,69 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I focus on business strategy, economics, and data-driven decision making, and I am passionate about using data and structured thinking to solve real-world business problems and support better decisions.
+I focus on data science, machine learning, and economics. I am learning to use statistical methods, predictive modeling, and empirical research to discover patterns, investigate relationships, and understand complex real-world problems.
 
 ---
 
 # 🚀 About Me  
 
-- 📊 Aspiring Business Analyst with a strong interest in strategy and economics
-- 🧠 Passionate about structured problem-solving, research, and analytical thinking  
-- 📈 Interested in consulting, business analysis, and economic research  
-- 💡 Building hands-on projects in analytics, strategy, and business research  
-- 🌍 Continuously developing technical, analytical, and communication skills  
+- 📊 Aspiring Data Scientist with a strong interest in machine learning and statistical modeling
+- 🤖 Interested in predictive analytics, forecasting, and data-driven decision systems  
+- 🔬 Interested in economics, causal inference, and quantitative research
+- 💡 Building hands-on projects in machine learning, statistical analysis, and applied economic research  
 
 ---
 
 # 🎯 Current Interests  
 
-- Business Analytics  
-- Strategy & Consulting  
-- Economic & Market Analysis
-- Business Intelligence  
+- Data Science & Machine Learning  
+- Economics & Causal Inference 
+- Statistical Modeling & Predictive Analytics  
+- Quantitative Research & Empirical Methods
 
 ---
 
 # 💻 Technical Skills  
 
-## 📊 Data Analytics & BI  
+## 📊 Software & Tools
 - Microsoft Excel  
 - Power BI  
-- Tableau  
+- Tableau
+- Stata
 
 ## 🗄️ Data & Programming  
-- SQL  
-- Python  
+- Python
+- Pandas, Numpy, Scikit-learn
+- SQL
+- C++
+
+## 🤖 Machine Learning & Statistics  
+- Regression
+- Classification
+- Clustering & Segmentation
+- Ensemble Learning  
 
 ---
 
 # 📂 Projects  
 
+- 📌 Customer Value Forecasting System  
+- 📌 Dynamic Pricing Engine  
+- 📌 Market Segmentation & Consumer Behavior Analysis
 - 📌 Trade Openness & Productivity Analysis  
-- 📌 Sales Funnel Analytics  
-- 📌 Market Segmentation Analysis
-- 📌 Financial Analysis and Benchmarking     
 
 ---
 
 # 📚 Currently Learning  
 
-- Advanced Excel, SQL & Python 
-- Consulting-style Case Analysis  
-- Business Strategy & Economics  
-
+- Machine Learning with Python  
+- Advanced Excel, SQL & Python  
+- Statistical Modeling & Econometrics  
+- Causal Inference & Applied Research Methods
+- 
 ---
 
 # 🤝 Connect With Me  
 
-- 💼 Open to collaborations, internships, and analytics-focused opportunities
-- 🌱 Always exploring ways to combine data, economics, and strategy to solve meaningful problems
+- 💼 Open to collaborations, internships, and opportunities in data science, analytics, and research  
+- 🌱 Always exploring ways to combine machine learning, causal inference, and economic thinking to investigate real-world problems, generate evidence-based insights, and understand not just what happens, but why.
