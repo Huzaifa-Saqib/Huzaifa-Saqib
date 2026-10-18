@@ -43,14 +43,12 @@ I focus on data science, machine learning, and economics. I am learning statisti
 - 📌 Customer Value Forecasting System  
 - 📌 Dynamic Pricing Engine  
 - 📌 Market Segmentation & Consumer Behavior Analysis
-- 📌 Trade Openness & Productivity Analysis  
-
+  
 ---
 
 # 📚 Currently Learning  
 
-- Machine Learning with Python  
-- Advanced Excel, SQL & Python  
+- Machine Learning with Python    
 - Statistical Modeling & Econometrics  
 - Causal Inference & Applied Research Methods
   
