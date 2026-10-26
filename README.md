@@ -2,16 +2,16 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I focus on data science, machine learning, and economics. I am learning statistical methods, predictive modeling, and empirical research to discover patterns, investigate relationships, and understand complex real-world problems.
+I focus on data science, machine learning, and experimental design for business and economic decisions. I combine data, statistical methods, and machine learning to study consumer behavior and real-world outcomes, and to make practical decisions.
 
 ---
 
 # 🚀 About Me  
 
 - 🎯 Aspiring Data Scientist with a strong interest in machine learning and statistical modeling
-- 🤖 Interested in predictive analytics, forecasting, and data-driven decision systems  
+- 🧪 Core focus on experimentation, causal analysis, and predictive modeling
 - 🔬 Interested in economics, causal inference, and quantitative research
-- 💡 Building hands-on projects in machine learning, statistical analysis, and applied economic research  
+- 💡 Building hands-on projects in machine learning, statistical analysis, and research methods 
 
 ---
 
@@ -25,7 +25,7 @@ I focus on data science, machine learning, and economics. I am learning statisti
 
 ## 🗄️ Data & Programming  
 - Python
-- Pandas, Numpy, Scikit-learn
+- Pandas, NumPy, Scikit-learn
 - SQL
 - C++
 
@@ -34,23 +34,23 @@ I focus on data science, machine learning, and economics. I am learning statisti
 - Classification
 - Clustering & Segmentation
 - Ensemble Learning
-- Causal Inference & Econometrics
+- Experimentation & Causal Inference
 
 ---
 
 # 📂 Projects  
 
-- 📌 Customer Value Forecasting System  
-- 📌 Dynamic Pricing Engine  
-- 📌 Market Segmentation & Consumer Behavior Analysis
+- 📌 **Customer Value Forecasting System** 
+- 📌 **Dynamic Pricing Engine** 
+- 📌 **Market Segmentation & Consumer Behavior Analysis**
   
 ---
 
 # 📚 Currently Learning  
 
-- Machine Learning with Python    
-- Statistical Modeling & Econometrics  
-- Causal Inference & Applied Research Methods
+- Advanced Python    
+- Statistical Modeling & Machine Learning 
+- Causal Inference, Experimental Design & Applied Research Methods
   
 ---
 
