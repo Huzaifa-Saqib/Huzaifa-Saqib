@@ -2,7 +2,7 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I focus on data science, machine learning, and experimental design for business and economic decisions. I combine data, statistical methods, and machine learning to study consumer behavior and real-world outcomes, and to make practical decisions.
+I focus on data science, machine learning, and experimental design for business and economic decisions. I combine data, statistical methods, and machine learning to study business ecosystems, consumer behavior and real-world outcomes, and to make practical decisions.
 
 ---
 
