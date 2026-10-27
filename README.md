@@ -2,16 +2,15 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I focus on data science, machine learning, and experimental design for business and economic decisions. I combine data, statistical methods, and machine learning to study business ecosystems, consumer behavior and real-world outcomes, and to make practical decisions.
+I am specializing in data science, machine learning, and causal inference for business and economic decisions. I combine data, statistical methods, and machine learning to study business ecosystems, consumer behavior and real-world outcomes, and to make practical decisions.
 
 ---
 
 # 🚀 About Me  
 
-- 🎯 Aspiring Data Scientist with a strong interest in machine learning and statistical modeling
-- 🧪 Core focus on experimentation, causal analysis, and predictive modeling
-- 🔬 Interested in economics, causal inference, and quantitative research
-- 💡 Building hands-on projects in machine learning, statistical analysis, and research methods 
+- 🎯 Aspiring Data Scientist with a strong interest in machine learning and statistical analysis
+- 🧪 Core focus on experimentation, predictive modeling and causal analysis
+- 🔬 Interested in business and economic decision-making
 
 ---
 
@@ -23,9 +22,9 @@ I focus on data science, machine learning, and experimental design for business 
 - Tableau
 - Stata
 
-## 🗄️ Data & Programming  
+## 🧑‍💻 Data & Programming  
 - Python
-- Pandas, NumPy, Scikit-learn
+- Pandas, NumPy, Scikit-learn, Matplotlib 
 - SQL
 - C++
 
@@ -50,7 +49,7 @@ I focus on data science, machine learning, and experimental design for business 
 
 - Advanced Python    
 - Statistical Modeling & Machine Learning 
-- Causal Inference, Experimental Design & Applied Research Methods
+- Causal Inference & Experimentation 
   
 ---
 
