@@ -2,7 +2,9 @@
 
 🎓 BS Business Analytics Student at FAST University  
 
-I am specializing in data science, machine learning, and causal inference for business and economic decisions. I combine data, statistical methods, and machine learning to study business ecosystems, consumer behavior and real-world outcomes, and to make practical decisions.
+I am specializing in data science, machine learning, econometrics, and causal inference for business and economic decisions.
+
+My interests lie in understanding how businesses, markets, and consumers behave, and how different quantitative methods support better decisions. I work with statistical modeling, predictive analytics, causal inference, and experimentation to identify patterns, understand relationships, estimate causal effects, and develop evidence-based solutions.
 
 ---
 
